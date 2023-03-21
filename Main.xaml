@@ -85,7 +85,7 @@
       </Variable>
       <Variable x:TypeArguments="x:String" Name="var_strPesquisaJogos">
         <Variable.Default>
-          <Literal x:TypeArguments="x:String">iphone 11</Literal>
+          <Literal x:TypeArguments="x:String">Jogos de playstation</Literal>
         </Variable.Default>
       </Variable>
     </Sequence.Variables>
